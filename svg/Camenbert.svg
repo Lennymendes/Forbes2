@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1d1d1b;
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 29.78px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #554645;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        fill: #36a9e1;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-10 {
+        letter-spacing: .01em;
+      }
+
+      .cls-3 {
+        fill: #95c11f;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-13 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-14 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1">
+    <g>
+      <g>
+        <g>
+          <rect class="cls-2" x="184.75" y="33.75" width="39.7" height="59.56"/>
+          <path class="cls-2" d="M503.15,456.31V178.38c153.5,0,277.93,124.44,277.93,277.93s-124.44,277.93-277.93,277.93-277.93-124.44-277.93-277.93c0-140.14,100.47-255.72,239.25-275.23l38.68,275.23Z"/>
+        </g>
+        <g>
+          <rect class="cls-3" x="184.25" y="111.12" width="39.7" height="59.56"/>
+          <path class="cls-3" d="M503.15,456.31l-38.68-275.23c13.07-1.84,25.48-2.7,38.68-2.7v277.93Z"/>
+        </g>
+      </g>
+      <g>
+        <text class="cls-1" transform="translate(245.03 153.9)"><tspan x="0" y="0">Ele</tspan><tspan class="cls-10" x="36.6" y="0">c</tspan><tspan x="50.32" y="0">t</tspan><tspan class="cls-11" x="60.18" y="0">r</tspan><tspan x="70.04" y="0">ic car number in </tspan><tspan class="cls-13" x="275.89" y="0">F</tspan><tspan class="cls-5" x="289.62" y="0">r</tspan><tspan x="299.21" y="0">an</tspan><tspan class="cls-8" x="330.09" y="0">c</tspan><tspan class="cls-14" x="343.25" y="0">e</tspan></text>
+        <text class="cls-1" transform="translate(245.5 74.7)"><tspan class="cls-7" x="0" y="0">C</tspan><tspan x="17.06" y="0">ar number in </tspan><tspan class="cls-9" x="182.96" y="0">F</tspan><tspan class="cls-5" x="196.69" y="0">r</tspan><tspan class="cls-6" x="206.27" y="0">an</tspan><tspan class="cls-12" x="237.15" y="0">c</tspan><tspan class="cls-4" x="250.32" y="0">e</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g id="Bleu">
+    <rect class="cls-2" x="184.2" y="33.96" width="39.7" height="59.56"/>
+  </g>
+  <g id="Vert">
+    <rect class="cls-3" x="183.43" y="109.71" width="39.7" height="59.56"/>
+  </g>
+</svg>

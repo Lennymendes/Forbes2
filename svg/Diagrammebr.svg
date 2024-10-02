@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1219.16 786.82">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        fill: #36a9e1;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-width: .5px;
+      }
+
+      .cls-5 {
+        fill: #1d1d1b;
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 35.09px;
+      }
+
+      .cls-6 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        fill: #95c11f;
+      }
+    </style>
+  </defs>
+  <g>
+    <line class="cls-2" x1="47.7" y1="764.88" x2="796.37" y2="764.88"/>
+    <g>
+      <line class="cls-2" x1="47.7" y1="764.88" x2="47.7" y2="746.17"/>
+      <line class="cls-2" x1="796.37" y1="764.88" x2="796.37" y2="746.17"/>
+    </g>
+  </g>
+  <g>
+    <g>
+      <text class="cls-5" transform="translate(18 778.04)"><tspan x="0" y="0">0</tspan></text>
+      <text class="cls-5" transform="translate(18 653.26)"><tspan x="0" y="0">5</tspan></text>
+      <text class="cls-5" transform="translate(0 528.49)"><tspan x="0" y="0">10</tspan></text>
+      <text class="cls-5" transform="translate(0 403.71)"><tspan x="0" y="0">15</tspan></text>
+      <text class="cls-5" transform="translate(0 278.93)"><tspan x="0" y="0">20</tspan></text>
+      <text class="cls-5" transform="translate(0 154.15)"><tspan x="0" y="0">25</tspan></text>
+      <text class="cls-5" transform="translate(0 29.37)"><tspan x="0" y="0">30</tspan></text>
+    </g>
+    <line class="cls-2" x1="47.7" y1="764.88" x2="47.7" y2="16.21"/>
+    <g>
+      <line class="cls-2" x1="47.7" y1="764.88" x2="66.42" y2="764.88"/>
+      <line class="cls-2" x1="47.7" y1="640.1" x2="66.42" y2="640.1"/>
+      <line class="cls-2" x1="47.7" y1="515.33" x2="66.42" y2="515.33"/>
+      <line class="cls-2" x1="47.7" y1="390.55" x2="66.42" y2="390.55"/>
+      <line class="cls-2" x1="47.7" y1="265.77" x2="66.42" y2="265.77"/>
+      <line class="cls-2" x1="47.7" y1="140.99" x2="66.42" y2="140.99"/>
+      <line class="cls-2" x1="47.7" y1="16.21" x2="66.42" y2="16.21"/>
+    </g>
+  </g>
+  <g>
+    <g>
+      <rect class="cls-4" x="847.16" y="16.21" width="93.58" height="74.87"/>
+      <rect class="cls-4" x="437.01" y="275" width="269.52" height="489.88"/>
+    </g>
+    <g>
+      <rect class="cls-3" x="847.16" y="128.51" width="93.58" height="74.87"/>
+      <rect class="cls-3" x="137.54" y="113.54" width="269.52" height="651.34"/>
+    </g>
+  </g>
+  <g>
+    <text class="cls-5" transform="translate(952.45 66.81)"><tspan x="0" y="0">Chademo Cha</tspan><tspan class="cls-7" x="206.84" y="0">r</tspan><tspan x="218.04" y="0">ger</tspan></text>
+    <text class="cls-5" transform="translate(952.45 179.11)"><tspan class="cls-6" x="0" y="0">C</tspan><tspan x="19.62" y="0">CS Cha</tspan><tspan class="cls-1" x="121.46" y="0">r</tspan><tspan x="132.65" y="0">ger</tspan></text>
+  </g>
+</svg>
